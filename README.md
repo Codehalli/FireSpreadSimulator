@@ -1,6 +1,7 @@
 Project: FireSpreadSimulator
 
 By: Pranav Rao
+
 Date: 03/ 21/ 2019
 
 Purpose for program will be using 2D arrays to simulate a fire a spreading through an area. It wil be able to determine wherer the fire is spreading
