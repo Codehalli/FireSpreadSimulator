@@ -1,0 +1,123 @@
+Moisture: 3
+Burn: 5
+Grid_file: sample.grid
+Initial State:
+nnnnn		33333		00000
+ennne		03330		00000
+nnbnn		33033		00500
+ennne		03330		00000
+nnnnn		33333		00000
+Step: 1
+nnnnn		33333		00000
+ennne		03230		00000
+nnbnn		32023		00400
+ennne		03230		00000
+nnnnn		33333		00000
+Step: 2
+nnnnn		33333		00000
+ennne		03130		00000
+nnbnn		31013		00300
+ennne		03130		00000
+nnnnn		33333		00000
+Step: 3
+nnnnn		33333		00000
+ennne		03030		00000
+nnbnn		30003		00200
+ennne		03030		00000
+nnnnn		33333		00000
+Step: 4
+nnnnn		33333		00000
+enbne		03020		00500
+nbbbn		30002		05150
+enbne		02010		00500
+nnnnn		33233		00000
+Step: 5
+nnnnn		33233		00000
+enbne		01000		00400
+nbtbn		20001		04040
+enbbe		00000		00450
+nnnnn		33123		00000
+Step: 6
+nnnnn		33133		00000
+ebbbe		00000		05350
+nbtbn		10000		03030
+ebbbe		00000		05340
+nnnnn		32013		00000
+Step: 7
+nnnnn		32023		00000
+ebbbe		00000		04240
+nbtbb		00000		02025
+ebbbe		00000		04230
+nnbbn		31002		00550
+Step: 8
+nnbnn		31003		00500
+ebbbe		00000		03130
+bbtbb		00000		51014
+ebbbe		00000		03120
+nbbbn		30001		05440
+Step: 9
+nbbbn		30002		05450
+ebtbe		00000		02020
+btttb		00000		40003
+ebtbe		00000		02010
+nbbbn		20000		04330
+Step: 10
+nbbbn		20001		04340
+ebtbe		00000		01010
+btttb		00000		30002
+ebtte		00000		01000
+nbbbb		10000		03225
+Step: 11
+nbbbn		10000		03230
+ettte		00000		00000
+btttb		00000		20001
+ettte		00000		00000
+nbbbb		00000		02114
+Step: 12
+nbbbb		00000		02125
+ettte		00000		00000
+btttt		00000		10000
+ettte		00000		00000
+bbttb		00000		51003
+Step: 13
+bbtbb		00000		51014
+ettte		00000		00000
+ttttt		00000		00000
+ettte		00000		00000
+btttb		00000		40002
+Step: 14
+btttb		00000		40003
+ettte		00000		00000
+ttttt		00000		00000
+ettte		00000		00000
+btttb		00000		30001
+Step: 15
+btttb		00000		30002
+ettte		00000		00000
+ttttt		00000		00000
+ettte		00000		00000
+btttt		00000		20000
+Step: 16
+btttb		00000		20001
+ettte		00000		00000
+ttttt		00000		00000
+ettte		00000		00000
+btttt		00000		10000
+Step: 17
+btttt		00000		10000
+ettte		00000		00000
+ttttt		00000		00000
+ettte		00000		00000
+ttttt		00000		00000
+Step: 18
+ttttt		00000		00000
+ettte		00000		00000
+ttttt		00000		00000
+ettte		00000		00000
+ttttt		00000		00000
+Final State:
+ttttt		00000		00000
+ettte		00000		00000
+ttttt		00000		00000
+ettte		00000		00000
+ttttt		00000		00000
